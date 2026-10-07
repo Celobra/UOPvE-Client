@@ -4,7 +4,9 @@
 
 Run **UOPvE-Setup.exe** and choose **Install UO:PvE**. Setup installs and opens the launcher, which automatically downloads ClassicUO and the game files. The initial download is approximately **2 GB**; keep the launcher open while it downloads.
 
-Release **1.0.3** opens the custom **ClassicUO Standard Update4** client and optional Razor through **PLAY** without an extra command window. It includes the UO:PvE login artwork. If you installed an earlier launcher, run the new setup once to upgrade it; existing game files are reused.
+Client release **1.0.4** fixes the character-name field and starting-city description so text is readable over the custom navy artwork. Close the game and reopen the launcher to download this fix automatically; it updates only the client module, about **4.5 MiB**.
+
+Launcher **1.0.3** opens the custom **ClassicUO Standard Update4** client and optional Razor through **PLAY** without an extra command window. It includes the UO:PvE login artwork. If you have an older launcher, run the current setup once to upgrade it; existing game files are reused.
 
 Open the launcher and choose **PLAY**. Enter your UO:PvE account details in ClassicUO. The launcher connects to **live.uoassets.com**, port **2593**.
 
