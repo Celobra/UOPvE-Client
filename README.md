@@ -2,11 +2,11 @@
 
 UO:PvE is in development. **Public play is not open yet**, and the website's launcher downloads remain withheld. This repository provides client files for automatic updates to existing test installations.
 
-Client release **1.0.6** makes the top-menu labels readable over the custom navy buttons. Labels use light text, with the existing gold highlight when hovering. It retains the character-name and starting-city readability fixes and the six game-data updates from **1.0.5**.
+Release **1.0.7** includes launcher **1.0.4** with **Settings → Uninstall UO:PvE completely**. Its confirmation lists the installed locations to remove, including game files, Razor, saved profiles, screenshots, settings, logs, update caches and shortcuts. Windows Installed apps uses the same complete uninstall.
 
-For an existing test installation, close ClassicUO and reopen the UO:PvE launcher. It downloads the changed client module automatically, about **4.5 MiB**. Other release files are reused.
+For an existing test installation, close ClassicUO and the old launcher, then install the updated setup to receive this launcher feature. All **790 game files** retain their previous hashes and download URLs. The readable top-menu, character-name and starting-city fixes, plus the six game-data updates from **1.0.5**, remain included.
 
-Launcher **1.0.3** remains current. It opens the custom **ClassicUO Standard Update 4** client and optional Razor through **PLAY** without an extra command window. Existing test installations using that launcher do not need to reinstall it for this client update.
+The launcher opens the custom **ClassicUO Standard Update 4** client and optional Razor through **PLAY** without an extra command window. Game files update automatically; a new setup installs launcher executable changes.
 
 **Razor is optional.** Enable **Launch with Razor** in the launcher to use it. The launcher checks for new game files and maps when it opens and again before **PLAY**. Close ClassicUO before updating. **Verify / repair** can restore missing or changed release files.
 
